@@ -1,0 +1,103 @@
+body {
+  background-color: #83858C;
+  
+}
+
+.terminal_window {
+  margin: 0 auto;
+  width: 600px;
+  height: 600px;
+  tex-align: left;
+  margin-top: 15px;
+  postion: relative;
+  border-radius: 10px;
+}
+
+.terminal_window header {
+  background-color: #E0E8F0;
+  height: 30px;
+  border-radius: 8px 8px 0 0;
+  padding-left: 10px;
+}
+
+.terminal_window .button {
+  width: 12px;
+  height: 12px;
+  margin: 10px 4px 0 0;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+.red_btn {
+  background-color: #E75448;
+}
+
+.green_btn {
+  background-color: #3BB662;
+}
+
+.yellow_btn {
+  background-color: #E5C30F;
+}
+
+.terminal_window {
+  background-color: #0D1F2D;
+  color: #F4FAFF;
+  font-size: 11pt;
+}
+
+.terminal_text {
+  margin-left: 20px;
+  font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+}
+
+#typed-strings {
+  display: inline-block;
+  postiion: relative;
+}
+
+#scriptBox {
+  font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+  margin-left: 15px;
+}
+
+#cntnt {
+
+    margin-top: 10px;
+    margin-left: 12px;
+     background: transparent;
+    border: none;
+    color: #fff;
+    border-color: : transparent;
+     font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+     width: 100%;
+     max-height:100%;overflow:auto;border:1px ;
+}
+textarea:hover, 
+input:hover, 
+textarea:active, 
+input:active, 
+textarea:focus, 
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active,
+#cntnt
+{
+    outline:0px !important;
+    -webkit-appearance:none;
+}
+input[type="text"]
+{
+    background: transparent;
+    border: none;
+    color: #fff;
+    border-color: : transparent;
+     font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+}
+input[type="text"]:focus{
+    outline: none;
+}
