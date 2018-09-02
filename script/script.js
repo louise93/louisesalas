@@ -28,7 +28,7 @@
   					  	{"commands" : { "command" : "experience" , "desc" : "<p>Experience</p><p>Lead Programmer  - <small>(Interday Manrkets Management ,(2017-present))</small></p><p>Programmer  - <small>(FVL Travel and Tours ,(May 2017-August 2017))</small></p><p>Junior Web Developer (OJT)  - <small>(EngTech Global Solutions ,(Dec. 2015-Mar. 2016))</small></p>"}},
   					  	{"commands"  : {"command" : "social_media" , "desc" : "To be updated soon"}},
   					  	{"commands" : {"command" : "projects" ,"desc" : "To be updated soon."}},
-  					  	{"commands" : {"command" : "about" ,"desc" : "<p>Hello there ! . I am Louise Salas . I'm just another Web Developer. I  don't fixed defective phones,laptops and computers. I simply write code. I do backend works. Sometimes I'm a developer. Sometimes a server. (I'm  not into server management but was forced to do so hahah . I don't know much about server management really. Good thing, Google exist heheh) </p>"}}
+  					  	{"commands" : {"command" : "about" ,"desc" : "<p>Hello there ! . I am Louise Salas . I'm just another Web Developer. I  don't fixed defective phones,laptops and computers. I simply write code. I do backend works. Sometimes I'm a developer. Sometimes a server admin. (I'm  not into server management but was forced to do so hahah . I don't know much about server management really. Good thing, Google exist heheh) </p>"}}
 
 
 					  ];
