@@ -25,7 +25,7 @@
  
   let command_list = [
   					  { "commands" : { "command": "help" , 
-  					  								"desc": "<p>List of Avaible Commands<p><table><tr><td>'about' :</td><td align='right'> Displays Personal Info </td></tr><tr><td>'education' :</td><td align='right'> Educational Background </td></tr><tr><td>'skills' :</td><td align='right'> Technical Skills</td></tr><tr><td>'experience' :</td><td align='right'> Work Experience </td></tr></tabled>"
+  					  								"desc": "<p>List of Avaible Commands<p><table><tr><td>'about' :</td><td align='right'> Displays Personal Info </td></tr><tr><td>'education' :</td><td align='right'> Educational Background </td></tr><tr><td>'skills' :</td><td align='right'> Technical Skills</td></tr><tr><td>'experience' :</td><td align='right'> Work Experience </td></tr><tr><td>'social_media' :</td><td align='right'> List fo Social Media Accounts </td></tr></tabled>"
   					  							}
   					  				  }  
 
