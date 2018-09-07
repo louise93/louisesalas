@@ -1,11 +1,10 @@
 body {
   background-color: #83858C;
-  
 }
 
 .terminal_window {
   margin: 0 auto;
-  width: 600px;
+  width: 700px;
   height: 600px;
   tex-align: left;
   margin-top: 15px;
@@ -18,7 +17,15 @@ body {
   height: 30px;
   border-radius: 8px 8px 0 0;
   padding-left: 10px;
+  word-break: break-all;
 }
+
+ul {
+  margin: 0 !important;
+  padding: 0% 5%;
+}
+
+p {}
 
 .terminal_window .button {
   width: 12px;
@@ -62,22 +69,26 @@ body {
 }
 
 #cntnt {
-
-    margin-top: 10px;
-    margin-left: 12px;
-     background: transparent;
-    border: none;
-    color: #fff;
-    border-color: : transparent;
-     font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
-     width: 100%;
-     max-height:100%;overflow:auto;border:1px ;
+  margin-top: 10px;
+  margin-left: 12px;
+  background: transparent;
+  border: none;
+  color: #fff;
+  border-color: : transparent;
+  font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+  width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  border: 1px;
+  margin: 0 !important;
+  padding: 0% 5%;
 }
-textarea:hover, 
-input:hover, 
-textarea:active, 
-input:active, 
-textarea:focus, 
+
+textarea:hover,
+input:hover,
+textarea:active,
+input:active,
+textarea:focus,
 input:focus,
 button:focus,
 button:active,
@@ -85,19 +96,19 @@ button:hover,
 label:focus,
 .btn:active,
 .btn.active,
-#cntnt
-{
-    outline:0px !important;
-    -webkit-appearance:none;
+#cntnt {
+  outline: 0px !important;
+  -webkit-appearance: none;
 }
-input[type="text"]
-{
-    background: transparent;
-    border: none;
-    color: #fff;
-    border-color: : transparent;
-     font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+
+input[type="text"] {
+  background: transparent;
+  border: none;
+  color: #fff;
+  border-color: : transparent;
+  font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
 }
-input[type="text"]:focus{
-    outline: none;
+
+input[type="text"]:focus {
+  outline: none;
 }
