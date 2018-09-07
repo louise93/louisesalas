@@ -26,7 +26,7 @@ function exec(command) {
 		{
 			"commands": {
 				"command": "skills",
-				"desc": '<p>List of Skills<p><ul><li>PHP Laravel</li><li>PHP Codeigniter</li><li>MySQL</li><li>Vue.js</li><li>Node.js</li><li>Python (Currently Studying)</li></ul>'
+				"desc": '<p>List of Skills<p><ul><li>PHP Laravel</li><li>PHP Codeigniter</li><li>MySQL</li><li>Vue.js</li><li>Node.js</li><li>Java(Basic Knowledge)</li><li>Java Android (Basic Knowledge)</li><li>Python (Currently Studying)</li></ul>'
 			}
 		},
 		{
